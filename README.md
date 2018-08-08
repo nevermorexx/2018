@@ -14,6 +14,7 @@ basic road map
 ## Some Project plans(to be growing & updated gradually)
 #### House rent for Chinese in US
 * Motivation
+
 The two largest house renting websites in US are Craigslist and Zillow. For Chinese people they mainly rely on weChat and school forums to post/find house information. There are many small web sites exiting to provide these kind of information, but none of them is well known and dominant.
 * Basic analysis
     1. Need to understand what people truely need for this. Find out the most user-friendly process to seek information
@@ -22,6 +23,7 @@ The two largest house renting websites in US are Craigslist and Zillow. For Chin
 
 #### Chinese localized airbnb
 * Motivation
+
 Even though as of date 08/06/2018, Airbnb has expanded its business to tens of countries with potential market cap of hundreds of billion US dollars, only small amount of Chinese people have heard of this company. Entering a Chinese market relating to real estate industry is never an easy thing. There is huge potencial in this field.
 
 * Basic analysis
@@ -31,6 +33,7 @@ Even though as of date 08/06/2018, Airbnb has expanded its business to tens of c
     
 #### Formal but not too formal dating platform
 * Motivation
+
 I got this idea from my sister. In China lots of girls are urged to get into a formal relationship and get married right after college graduation (Not know why:mask:). Some exisiting dating apps such as Tantan, are too casual for taking that into a serious relationship stage. While some other platforms like Baihe, Zhenai, are just too formal, which are not found by young people. With so many dating apps existing, I firmly believe this field still has huge potensial. If a reliable and user-friendly platform is made to young people, this would be meaningful:bowtie:
 
 * Basic analysis
