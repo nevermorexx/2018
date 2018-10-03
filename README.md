@@ -6,7 +6,7 @@ It is said that people fail a couple of projects before they finally succeed. I 
 I set this project as public, everyone is welcome to share any thoughts.
 
 basic road map
-* **2018-2020**(age 26-28 2 years) Learn diffent industrial-level technologies. Including web, back-end, iOS, machine learning, etc. Do some prof of concept through some simple/small size projects.
+* **2018-2020**(age 26-28 2 years) Learn diffent industrial-level technologies. Including web, back-end, iOS, machine learning, etc. Do some proof of concept through some simple/small size projects.
 * **2020-2024**(age 28-32 4 years) Have a systematic view of tech stacks. Qualified to be a senior software engineer. Start to rolling out some commersial-level projects to see where it goes.
 * **2024-2032** (age 32-40 8 years) Have a successful commersial project launching. Earning adequate money for family.
 * **2032-forward** (age 40+) Make dream projects come true regardless of profits. Mainly use technology to help others and make a real contribution to part of this society.
